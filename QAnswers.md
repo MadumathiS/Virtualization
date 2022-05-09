@@ -28,7 +28,7 @@ All the components of a traditional data center or IT infrastructure can be virt
 
 # Containers
 
-[contaiers.md](containers.md)
+[containers.md](containers.md)
 
 # General
 
