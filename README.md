@@ -37,7 +37,8 @@ It's now your job to gather as much information as possible and investigate if t
 NOTE: If you find yourself with some spare time, feel free to dive into the technologies you researched and try to use them.
 
 Complementary Resources
-Quiz on Virtualization
-What's virtualization
-Docker container
-VM explained by VMWare
+
+[Quiz on Virtualization](Quiz.md)
+[What's virtualization](https://opensource.com/resources/virtualization)
+[Docker container](https://www.docker.com/resources/what-container/)
+[VM explained by VMWare](https://www.vmware.com/topics/glossary/content/virtual-machine.html)
